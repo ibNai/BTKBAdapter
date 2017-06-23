@@ -1,6 +1,8 @@
 # BTKBAdapter
 Arduino Bluetooth Keyboard Adapter
 
+[![BTKBAdapter](/BT_KB.JPEG)](https://youtu.be/L7EqKJ02lK4)
+
 Build Video (YouTube): https://youtu.be/L7EqKJ02lK4
 
 Made an Arduino Bluetooth Keyboard Adapter, it's awesome for traveling (assuming TSA checkpoint let you through, LOL). I can connect my mechanical keyboards to iPhone, smart TV, and tablets.
